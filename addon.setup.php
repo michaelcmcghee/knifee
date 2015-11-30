@@ -14,7 +14,7 @@ return array(
 			'words' => array(
 				'description' => 'Amount of words you want to show, the rest are truncated.',
 				'example' => '{exp:knifee words="6"} {tags} or content {/exp:knifee}'
-			)
+			),
 			'allowtags' => array(
 				'description' => 'HTML tags you want to allow, otherwise they are stripped out.',
 				'example' => '{exp:knifee allowtags="<br><a>"} {tags} <br> or <a href="#link">content</a> {/exp:knifee}'
