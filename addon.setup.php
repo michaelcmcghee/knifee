@@ -23,4 +23,4 @@ return array(
 	)
 );
 /* End of file addon.setup.php */ 
-/* Location: /__ee_admin/user/addons/knifee/addon.setup.php */
+/* Location: /system/user/addons/knifee/addon.setup.php */
